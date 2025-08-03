@@ -32,8 +32,10 @@ A powerful and customizable AI assistant platform built using **FastAPI**, **Str
 ## 🔐 Setup Environment Variables
 
 Create a `.env.local` file in the root directory and add your API keys:
+```bash
 GROQ_API_KEY=your_groq_api_key
 TAVILY_API_KEY=your_tavily_api_key
+```
 
 ---
 
@@ -41,7 +43,7 @@ TAVILY_API_KEY=your_tavily_api_key
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/multi-ai-agent.git](https://github.com/rahulbamnuya/Multi-AI-Agent-Project-)
+git clone https://github.com/rahulbamnuya/Multi-AI-Agent-Project-.git
 cd multi-ai-agent
 ```
 ### 2. Create virtual environment
