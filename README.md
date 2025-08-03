@@ -70,3 +70,12 @@ Ask:
 "What are safe investment options for a beginner in 2025?"
 
 ✅ The agent will respond using Groq LLM and optionally retrieve real-time information from the web using Tavily.
+---
+
+## 🖼️ Screenshots
+
+### 🎯 User Interface
+<img src="Images/Screenshot 2025-08-03 232410.png" alt="Multi AI Agent UI" width="700"/>
+
+### 📩 Sample Response
+<img src="Images/Screenshot 2025-08-03 232522.png" alt="Multi AI Agent Output" width="700"/>
