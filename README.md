@@ -52,7 +52,8 @@ source venv/bin/activate      # For Windows: venv\Scripts\activate
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
-python setup.py
+pip install -e .
+
 
 ```
 ### 4. Run Application
